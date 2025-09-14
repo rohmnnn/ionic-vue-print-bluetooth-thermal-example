@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-printing-bluetooth-serial-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
